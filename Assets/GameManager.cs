@@ -33,7 +33,7 @@ public class GameManager : MonoBehaviour
             {
                 hasExhibit = true;
                 exhibit.SetActive(false);
-                gameText.text = "Exhibit stolen! Get to the blue exit.";
+                gameText.text = "Exhibit stolen! Get to the exit.";
             }
         }
 
